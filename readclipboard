@@ -1,0 +1,3 @@
+#!/bin/bash
+spd-say -r -62 "$(xclip -o)";
+

@@ -1,0 +1,2 @@
+#!/bin/bash
+mysql -h mandydbinstance.cwt8v5eapffs.us-east-1.rds.amazonaws.com -P 3306 -u mandy1339 -p

@@ -1,0 +1,5 @@
+#! /bin/bash
+echo 'automated git push script';
+git add --all;
+git commit -m "automated git push script";
+git push origin master;

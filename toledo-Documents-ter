@@ -1,0 +1,3 @@
+#!/bin/bash
+toledo-change-dir /home/armando/Documents;
+$SHELL

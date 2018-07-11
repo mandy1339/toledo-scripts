@@ -1,0 +1,7 @@
+#! /bin/bash
+echo "hi"
+ssh -i "/home/toledoal/MEGA/PROG/AWS/app1.pem" ubuntu@ec2-54-89-227-145.compute-1.amazonaws.com
+
+
+$SHELL
+
